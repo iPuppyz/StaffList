@@ -1,0 +1,9 @@
+name: StaffList
+version: 1.0
+author: iPuppyz
+description: Use /staff to see which staff members are online!
+main: me.puppyz.stafflist.Main
+
+commands:
+ staff:
+  description: Main StaffList command!
